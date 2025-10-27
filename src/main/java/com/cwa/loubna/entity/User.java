@@ -1,4 +1,4 @@
-package entity;
+package com.cwa.loubna.entity;
 import jakarta.persistence.*;
 import lombok.Data;
 
